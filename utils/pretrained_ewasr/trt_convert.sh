@@ -1,0 +1,1 @@
+/usr/src/tensorrt/bin/trtexec --onnx=ewasr_resnet18.onnx --saveEngine=ewasr_resnet18.trt
